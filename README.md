@@ -7,9 +7,9 @@ The client, Maria, requested an original analysis of students' standardized test
 ## Results: 
 * District summary affected
     * Orginal Data Analysis
-    ![alt text]()
+    ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/9e28c0eb03a1abff75dc68653b43cc84ee44d839/Screenshots/Org_District_Summary.png)
     * Altered Data Analysis:
-    ![alt text]()
+    ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/9e28c0eb03a1abff75dc68653b43cc84ee44d839/Screenshots/Altered_District_Sum.png)
         * There was minor impact removing the possible "cheating" scores from ninth-graders.
         * Average math scores (79 to 78.9)
         * Percent of passing math (75% to 73.9%)
@@ -17,10 +17,6 @@ The client, Maria, requested an original analysis of students' standardized test
         * Overall passing percentage (65% to 64.1%)
 
 * School summary affected
-    * Original Data Analysis
-    ![alt text]()
-    * Altered Data Analysis:
-    ![alt text]()
     * Average math score (83.42 to 83.5)
     * Percent of students passing math decrease (93.27% to 66.91%)
     * Percent of students passing reading decreased (97.31% to 69.66%) 
@@ -28,39 +24,40 @@ The client, Maria, requested an original analysis of students' standardized test
     * Average reading score for the school increased from decreased (83.85 to 83.90%).  
 
 * Replacing the ninth graders’ math and reading scores effect on Thomas High School’s performance relative to the other schools
-    * Original Data Analysis
-    ![alt text]()
-    * Altered Data Analysis:
-    ![alt text]()
+    * Original Top 5 Schools
+    ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/9e28c0eb03a1abff75dc68653b43cc84ee44d839/Screenshots/top_schools_org.png)
+    * Altered Top 5 Schools:
+    ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/958c70c288e6892f40d929e35191baeeeb9b6c4a/Screenshots/Alter_top_school.png)
+    * Thomas High School Adjusted Results
+    ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/alt_ths_sum.png)
     * Thomas High School drops from a top five school rank (2) to being the (8th).  
     * This makes Thomas High School the lowest ranking for charter schools but still outperforms district schools.    
 
 * Replacing the ninth-grade scores affect:
     * Math and reading scores by grade.
-        * Only impact is that ninth grade scores for math and reading are affected.  Other grades were not adjusted or altered because their          scores were not in question. 
+        * Only impact is that ninth grade scores for math and reading are affected.  Other grades were not adjusted or altered because their scores were not in question. 
         * Ninth-grade mean of reading scores (82.51 to 82.43) 
         * Ninth grade mean of math scores (80.35 to 80.12) 
 
-    *Scores by school spending
-    * Original Data Analysis
-    ![alt text]()
-    * Altered Data Analysis:
-    ![alt text]()
+    * Scores by school spending
+        * Original Data Analysis
+        ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/org_spending.png)
+        * Altered Data Analysis:
+        ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/new_spending.png)
         * Minor changes.  Change occurred within the hundredths place.  
 
-    *Scores by school size
-
-    * Original Data Analysis
-    ![alt text]()
-    * Altered Data Analysis:
-    ![alt text]()
+    * Scores by school size
+        * Original Data Analysis
+        ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/org_school_size.png)
+        * Altered Data Analysis:
+        ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/new_school_size.png)
         * Minor changes.  Change occurred within the hundredths place. 
-    *Scores by school type
 
-    * Original Data Analysis
-    ![alt text]()
-    * Altered Data Analysis:
-    ![alt text]()
+    * Scores by school type
+        * Original Data Analysis
+        ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/old_school_type.png)
+        * Altered Data Analysis:
+        ![alt text](https://github.com/bmliddicoat/School_District_Analysis/blob/f50feaa0bc115724d20df3d25d45491cc9c4af0f/Screenshots/new__school_type.png)
         * Minor changes.  Change occurred within the hundredths place. 
 
 ## Summary: 
